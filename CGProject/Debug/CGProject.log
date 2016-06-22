@@ -1,0 +1,64 @@
+﻿Build started 12/17/2015 1:53:51 PM.
+     1>Project "C:\Users\Drew\Documents\Visual Studio 2015\Projects\CGProject\CGProject\CGProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Drew\Downloads\soil\Simple OpenGL Image Library\src" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\planets.h(28): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\planets.h(39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\planets.h(45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\asteroid.h(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\asteroid.h(25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\rings.h(19): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\rings.h(19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(17): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(17): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(49): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(55): warning C4305: '=': truncation from 'double' to 'GLfloat'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(56): warning C4305: '=': truncation from 'double' to 'GLfloat'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(57): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(63): warning C4305: '=': truncation from 'double' to 'GLfloat'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(64): warning C4305: '=': truncation from 'double' to 'GLfloat'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(65): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(69): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(73): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(79): warning C4305: '=': truncation from 'double' to 'GLfloat'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(80): warning C4305: '=': truncation from 'double' to 'GLfloat'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(81): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(419): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(425): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(431): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(435): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(435): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(440): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(444): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(444): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(449): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(453): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(453): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(458): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(462): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(462): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(466): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(471): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(475): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(479): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(484): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(488): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(488): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(494): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(500): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(504): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(504): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(509): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\drew\documents\visual studio 2015\projects\cgproject\cgproject\renderer.h(516): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Drew\Documents\Visual Studio 2015\Projects\CGProject\Debug\CGProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Drew\Downloads\soil\Simple OpenGL Image Library\lib" SOIL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Drew\Documents\Visual Studio 2015\Projects\CGProject\Debug\CGProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Drew\Documents\Visual Studio 2015\Projects\CGProject\Debug\CGProject.lib" /MACHINE:X86 Debug\Main.obj
+         CGProject.vcxproj -> C:\Users\Drew\Documents\Visual Studio 2015\Projects\CGProject\Debug\CGProject.exe
+     1>Done Building Project "C:\Users\Drew\Documents\Visual Studio 2015\Projects\CGProject\CGProject\CGProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.12
